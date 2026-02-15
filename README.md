@@ -1,0 +1,1 @@
+A PHP based website that I built for my CS313 assignment at University of Strathclyde. The password of "WeKnowTheGame24" is hardcoded. Site will no longer run as backend credentials have been removed.
